@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3edf388a-ffe1-4193-b1f8-a84f88370fbd"
+      }
+    },
+    "owner": "clement-antoine.xavier"
   }
 }
